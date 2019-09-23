@@ -1,6 +1,6 @@
 # General-Projects
 
-This is the repositiory where I mash all my files if the other repositiories fail to upload.
+***This is the repositiory where I mash all my files if the other repositiories fail to upload. EDIT: And they did. Some files were too big so I uploaded those that I could convert down.
 
 Some of the Java files are not up to date because the newest versions lie on my school drive, which has been wiped.
 However, my fundamental skills and style of coding is clear through the programs. There are many small exercises, but "Anger Birds" was my first encounter using swing applications. I am very proud of that assignment. More evidence for good coding practices can be found in my more recent programs in C++ (GENE121 folder).
