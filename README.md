@@ -7,7 +7,7 @@ However, my fundamental skills and style of coding is clear through the programs
 
 For my experience with Android Studio, I simply put images from my presentation. The projects below also require knowledge with apps and Android so if the evidence of the images is insufficient, refer to below.
 
-The VR projects should work. They are very inefficient in terms of memory, but they are quite neat. Projects include: 
+The VR projects are very inefficient in terms of memory, but they are quite neat. Projects include: 
 1) Soma Cube Animation (Only MAYA)
 2) Principles of Animation (ONLY MAYA)
 3) REALLY COOL HELICOPTER (ONLY MAYA)
