@@ -1,0 +1,4 @@
+﻿  Midterm.cpp
+C:\Users\thoma\source\repos\Midterm\Midterm\Midterm.cpp(155,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\thoma\source\repos\Midterm\Midterm\Midterm.cpp(178,31): warning C4018: '<': signed/unsigned mismatch
+  Midterm.vcxproj -> C:\Users\thoma\source\repos\Midterm\Debug\Midterm.exe

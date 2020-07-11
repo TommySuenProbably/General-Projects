@@ -1,0 +1,5 @@
+﻿  Midterm 2.cpp
+C:\Users\thoma\source\repos\Midterm 2\Midterm 2\Midterm 2.cpp(38,28): warning C4244: 'return': conversion from 'double' to '__int64', possible loss of data
+C:\Users\thoma\source\repos\Midterm 2\Midterm 2\Midterm 2.cpp(41,77): warning C4244: 'return': conversion from 'double' to '__int64', possible loss of data
+C:\Users\thoma\source\repos\Midterm 2\Midterm 2\Midterm 2.cpp(46,64): warning C4244: 'return': conversion from 'double' to '__int64', possible loss of data
+  Midterm 2.vcxproj -> C:\Users\thoma\source\repos\Midterm 2\Debug\Midterm 2.exe
