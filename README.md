@@ -11,4 +11,4 @@ The VR projects were highly inefficient in terms of memory, but they are really 
 6) "Cooking Dada" - VR cooking tutorial game (credits to Ryosaka for grabber)
 **Final Gambit if "Cooking Dada" had failed: a simple but fluid juggling game**
 
-I am working on a profile website using the React framework/library and hope to use some modelling to enhance some animations.
+I am working on a profile website using the React framework/library and hope to use some modelling to enhance some animations. I am planning to use GraphQL somehow to aggregate data from other profiles. This is in the works.
